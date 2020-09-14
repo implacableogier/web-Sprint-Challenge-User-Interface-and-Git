@@ -51,6 +51,8 @@ table {
     box-sizing: border-box;
 }
 
+/*Beginning of CSS*/
+
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
@@ -143,4 +145,13 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+/*Beginning of MY code*/
+
+.header-nav {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:center;
 }
