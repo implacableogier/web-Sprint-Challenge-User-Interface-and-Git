@@ -50,6 +50,8 @@ Align-items works along the minor axis. That is, perpindicular to the current se
 
 5. Explain why git is valuable to a team of developers.
 
+GIT is a version control software which helps developers collaborate by being able to save, view, access, and revert to all previous versions of software. It allows developers to view what each other are doing on their respective branches and to adopt those changes if necessary.
+
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
