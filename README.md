@@ -42,7 +42,11 @@ Two big differences with the way 'display: block' vs 'display: inline', are the 
 
 3. What are the 4 areas of the box model?
 
+Content, padding, border, margin.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+
+Align-items works along the minor axis. That is, perpindicular to the current setting of 'flex-direction'.
 
 5. Explain why git is valuable to a team of developers.
 
