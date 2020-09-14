@@ -200,3 +200,43 @@ header {
 #box10 {
     background-color: dodgerblue;
 }
+
+.about-text {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.main-section {
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    border-top: 1px dashed black;
+    text-align: left;
+    justify-content:space-around;
+}
+
+.main-section-1 {
+    width:48%;
+    padding: 10px;
+    border-bottom: 1px dashed black;
+    margin-top:20px;
+}
+.main-section-2 {
+    width: 48%;
+    padding: 10px;
+    border-bottom: 1px dashed black;
+    margin-top: 20px;
+}
+.main-section-3 {
+    width:48%;
+    padding: 10px;
+    border-bottom: 1px dashed black;
+}
+.main-section-4 {
+    width:48%;
+    padding: 10px;
+    border-bottom: 1px dashed black;
+}
+.learn {
+    
+}
