@@ -38,6 +38,8 @@ Semantic HTML is a way of marking up text to give it meaning, increasing readabi
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+Two big differences with the way 'display: block' vs 'display: inline', are the way that these two different attributes organize elements in relation to one another, i.e., stacked on top of one another versus inline with eachother.
+
 3. What are the 4 areas of the box model?
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
